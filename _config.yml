@@ -1,6 +1,7 @@
 ---
 title: Cet
 timezone: UTC
+description: test
 collections:
   posts:
     title: Posts
