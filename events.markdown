@@ -5,4 +5,3 @@ Title: Events
 ---
 
 **Children's Camp**
-Child Evangelism Team holds its April Vacation Bible Camp and also its August Bible Vacation Camp annually at the Elelu Village, Alakia Camp ground Ibadan, Oyo State, Nigeria.
